@@ -1,0 +1,37 @@
+#include <stdio.h>
+
+struct Student
+{
+	int no;
+	int cellphone;
+	int homePhone;
+};
+
+
+int main()
+{
+	struct Student student;
+	char option;
+
+	printf("Do you have cellphone (y/n)");
+	scanf("%c%*c", &option);
+	if ('y' == option)
+	{
+		printf("What is your cellphone number?: ");
+		scanf("%d", &student.cellphone);
+	}
+		       while(getchar()!='\n');
+	printf("Do you have homephone (y/n)");
+	scanf("%c%*c", &option);
+	if ('y' == option)
+	{
+		printf("What is your homephone number?: ");
+		scanf("%d", &student.homePhone);
+	}
+
+	printf("This is cellphone number %d\n", student.cellphone);
+	printf("This is homephone number %d\n", student.homePhone);
+
+	//getchar();
+	return 0;
+}

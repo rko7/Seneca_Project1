@@ -1,0 +1,60 @@
+Script started on Wed Oct 17 12:07:52 2018
+]0;rko7@mtrx-node04pd:~/IPC144/w5/in_lab[?1034h[rko7@mtrx-node04pd in_lab]$ ws
+---=== EMPLOYEE DATA ===---
+
+1. Display Employee Information
+2. Add Employee
+0. Exit
+
+Please select from the above options: 2
+
+Adding Employee
+===============
+Enter Employee ID: 111
+Enter Employee Age: 34
+Enter Employee Salary: 78980.88
+
+1. Display Employee Information
+2. Add Employee
+0. Exit
+
+Please select from the above options: 2
+
+Adding Employee
+===============
+Enter Employee ID: 112
+Enter Employee Age: 41
+Enter Employee Salary: 65000
+
+1. Display Employee Information
+2. Add Employee
+0. Exit
+
+Please select from the above options: 2
+
+Adding Employee
+===============
+ERROR!!! Maximum Number of Employees Reached
+
+1. Display Employee Information
+2. Add Employee
+0. Exit
+
+Please select from the above options: 1
+
+EMP ID  EMP AGE EMP SALARY
+======  ======= ==========
+   111       34   78980.88
+   112       41   65000.00
+
+1. Display Employee Information
+2. Add Employee
+0. Exit
+
+Please select from the above options: 0
+
+Exiting Employee Data Program. Good Bye!!!
+]0;rko7@mtrx-node04pd:~/IPC144/w5/in_lab[rko7@mtrx-node04pd in_lab]$ exit
+exit
+
+Script done on Wed Oct 17 12:08:28 2018

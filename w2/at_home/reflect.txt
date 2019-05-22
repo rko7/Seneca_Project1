@@ -1,0 +1,15 @@
+1. I think the most important things I learned in this workshop are coding a
+simple calculation using C operatior and expressions and casting a value from
+a data typle to another.
+
+2. The reason why I must add .005 to the value is because it will correct any
+rouning errors.
+
+3. Basically the casting opporatin helps conversion from one type to another. 
+Through multiplying the amount which was originally double, by 100 and cast to 
+an int, modulus could work.
+
+4. I was required to use the modulus operator in this workshop because
+modulus uses multiple operating functions such as division, multiplication,
+additon and subtraction.
+ 

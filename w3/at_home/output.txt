@@ -1,0 +1,26 @@
+Script started on Fri Sep 28 22:27:16 2018
+]0;rko7@mtrx-node06pd:~/IPC144/w3/at_home[?1034h[rko7@mtrx-node06pd at_home]$ ws
+---=== IPC Temperature Analyzer ===---
+Enter the high value for day 1: 8
+
+Enter the low value for day 1: -2
+
+Enter the high value for day 2: 9
+
+Enter the low value for day 2: -4
+
+Enter the high value for day 3: 11
+
+Enter the low value for day 3: 5
+
+Enter the high value for day 4: 10
+
+Enter the low value for day 4: 3
+
+The average (mean) temperature was: 5.00
+The highest temperature was 11, on day 3
+The lowest temperature was -4, on day 2
+]0;rko7@mtrx-node06pd:~/IPC144/w3/at_home[rko7@mtrx-node06pd at_home]$ exit
+exit
+
+Script done on Fri Sep 28 22:27:58 2018

@@ -1,0 +1,6 @@
+1. In my opinion, when we usuallythink of a struct only can be comprised of the
+primitive data types and this let us that is not the only type that the struct
+can contain.
+2. Because of my lack of English, understanding getSomething(struct Something*)
+was the most difficult part.
+3. It took 1 hour to 1 hour and half me to complete Milestone 4.

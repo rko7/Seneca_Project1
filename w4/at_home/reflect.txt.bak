@@ -1,0 +1,8 @@
+1. The arrays in this program have to be declared to hold 10 elements because
+the range of the day is till 10. That means our array formed with 10 int variables.
+
+2. The advantage is the array let us to store known number of elements in it. 
+  For the disaadvantage, inserting and deleting are too difficult.
+
+3. It was too hard to me. I struggled with get the output from average temperature.
+ 

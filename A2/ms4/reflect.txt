@@ -1,0 +1,7 @@
+1. With this two functions when coding the others parts we dont need to repeat 
+the same steps because it is already in the FindContactIndex or the 
+getTenDigitPhonefunction so we avoid on writing the same code all over again, 
+we just call those two functions. So we don't need to repeat same codes all over
+and make them shorter. 
+
+2. Learn how to use pointer and manage of printf and scanf.

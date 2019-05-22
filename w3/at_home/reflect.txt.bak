@@ -1,0 +1,8 @@
+1) while, for, do while
+2) In while loop if the condition is never true, the construct never executes
+the sequence. However The do while construct executes its sequence at least once
+and continues executing it as long as the test condition is true.
+3. The conditional expression combines a condition and two sub-expresstions
+using the ? : operatior. If the condition is true, the expression evalutates
+to the operand between ? and :. If condition is false, the expression evaluates
+to the operand following.

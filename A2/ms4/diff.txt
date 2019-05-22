@@ -1,0 +1,10 @@
+
+In line number 469 of your output:
+The output should be:
+Select an option:> 6
+But your output is: 
+Select an option:> 0
+                   ^
+-------------------|
+Professor's character ASCII code: hex(36), dec(54)
+un-matched character ASCII code: hex(30), dec(48)

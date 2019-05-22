@@ -1,0 +1,120 @@
+// Name: Ryeoeul Ko
+// Student Number: 129035176
+// Email: rko7@myseneca.ca
+// section: IPC144SVV
+// Workshop: W4
+
+#define _CRT_SECURE_NO_WARNINGS
+
+// Put your code below:
+
+#include <stdio.h>
+
+#define NUMS 4 
+
+int main(void){
+
+
+
+	//variable declarations
+
+	int i;
+
+	int days[] = {1, 2, 3, 4};
+
+	int high[] = {6, 8, 7, 9};
+
+	int low[] = {-2, -1, -3, -4};
+
+	int highest = 0, highestday;
+
+	int lowest = 0, lowestday;
+
+	float ave;
+
+
+	//print the title
+
+	printf("---=== IPC Temperatrue Calculator V2.0 ===---\n");
+
+	//read high and low temperature
+
+
+	printf("Please enter the number of days, between 3 and 10, inlcusive: ",days);
+	scanf("%d", &days); 
+
+
+	do{
+
+
+	for (i = 0; i < NUMS; i++)  {
+
+	  printf("\nDay %d - High: ", i + 1);
+	 
+	  scanf("%d", &high);
+	
+	  printf("\nDay %d - Low: ", i + 1);
+
+	  scanf("%d", &low);
+	 } 
+
+
+	if (high > highest) {
+	 
+	  highest = high;
+	
+	  highestday = i + 1;
+	 } 
+
+
+	
+	if ( low > lowest) {
+
+	  lowest = low;
+
+	  lowestday = i + 1;
+	 }
+
+	}       
+
+
+	const int n =4;
+	
+	 printf(" Days Hi Low\n");
+	 
+	  for (i = 0; i < n; i++)
+
+		printf("%d %d %d", days[i], high[i], low[i]);
+
+
+
+	printf("The highest temperature was %d", highest);
+	printf(", on day %d\n", highestday);
+
+	printf("The lowest temperature was %d", lowest);
+	printf(", on day %d\n", highestday);
+
+
+
+	printf("Enter a numner between 1 and 4 to see the average temperature for the entered number of days, enter a naegative number to exit: \n", days);
+
+	printf("Invalid entry, please enter a number between 1 and 4, inclusive: \n", days);
+
+	printf("The average temperature up to day %d is: ",days);
+
+	scanf("%d", days);
+
+
+
+	printf("\nGoodbye !");
+
+
+
+
+
+
+
+
+	return 0;
+}
+

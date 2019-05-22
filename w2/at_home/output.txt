@@ -1,0 +1,14 @@
+Script started on Mon Sep 24 20:14:28 2018
+]0;rko7@mtrx-node01pd:~/IPC144/w2/at_home[?1034h[rko7@mtrx-node01pd at_home]$ ws
+Please enter the amount to be paid: $8.68
+GST: 1.13
+Balance owing: $9.81
+Loonies required: 9, balance owing $0.81
+Quarters required: 3, balance owing $0.06
+Dimes required: 0, balance owing $0.06
+Nickels required: 1, balance owing $0.01
+Pennies required: 1, balance owing $0.00
+]0;rko7@mtrx-node01pd:~/IPC144/w2/at_home[rko7@mtrx-node01pd at_home]$ exit
+exit
+
+Script done on Mon Sep 24 20:14:42 2018

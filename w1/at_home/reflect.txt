@@ -1,0 +1,6 @@
+From this lecture, i learned how to make files from Putty and Visual Studio. 
+And learned how to output the sentense what I want to show up. 
+In my opinion, Visual Studio was better to run because while we build and debug
+ we know what went to wrong exactly. However the Putty was to hard to know what 
+I did wrong.
+

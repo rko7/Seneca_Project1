@@ -1,0 +1,9 @@
+1. In my opinion the "If" statement is the best way to run this code. It is because
+the If statement makes the coding structure more clear and simpler.
+
+2. The reason why a C string that is required to store up to 25 characters must
+be capable of storing 26 characters is we need a terminator element which is
+refer to null terminater at the end of the meaningful character in the string.
+Since the index indentify the null terminator element as the number of meaningful
+characters in the string we need one extra character even we try to store up
+25 characters.

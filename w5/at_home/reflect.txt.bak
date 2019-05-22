@@ -1,0 +1,5 @@
+1. An array of structs runs faster for most uses. It is easier to excute.
+2. The preferred method of declaring a struct data type is in a header file. It
+is because the code in a header file is duplicated inside each C file in which
+it is inlcuded, which allows us to write code, in one spot and edit it in that
+one spot alone.

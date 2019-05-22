@@ -1,0 +1,9 @@
+Script started on Sun 23 Sep 2018 11:05:40 PM EDT
+]0;nasim.razavi@mtrx-node02pd:~/IPC144/w2/in_lab[?1034h[nasim.razavi@mtrx-node02pd in_lab]$ ws
+Please enter the amount to be paid: $8.68
+Loonies required: 8, balance owing $0.68
+Quarters required: 2, balance owing $0.18
+]0;nasim.razavi@mtrx-node02pd:~/IPC144/w2/in_lab[nasim.razavi@mtrx-node02pd in_lab]$ exit
+exit
+
+Script done on Sun 23 Sep 2018 11:05:47 PM EDT
